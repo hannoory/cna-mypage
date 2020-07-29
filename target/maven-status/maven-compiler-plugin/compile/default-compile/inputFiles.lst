@@ -1,0 +1,10 @@
+D:\demo1\MyPage\src\main\java\demo\MyPage.java
+D:\demo1\MyPage\src\main\java\demo\MyPageRepository.java
+D:\demo1\MyPage\src\main\java\demo\AbstractEvent.java
+D:\demo1\MyPage\src\main\java\demo\MyPageViewHandler.java
+D:\demo1\MyPage\src\main\java\demo\DeliveryCanceled.java
+D:\demo1\MyPage\src\main\java\demo\Ordered.java
+D:\demo1\MyPage\src\main\java\demo\Shipped.java
+D:\demo1\MyPage\src\main\java\demo\config\kafka\KafkaProcessor.java
+D:\demo1\MyPage\src\main\java\demo\PolicyHandler.java
+D:\demo1\MyPage\src\main\java\demo\MyPageApplication.java
